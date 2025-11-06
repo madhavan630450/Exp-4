@@ -21,8 +21,9 @@ To draw the UML diagram for Hospital Management system
 
 <img width="1106" height="847" alt="Screenshot 2025-11-06 151553" src="https://github.com/user-attachments/assets/af6f3e0a-f958-4ad8-9ecb-8c17dcf216eb" />
 
+3.ACTIVITY DIAGRAM
 
-<img width="815" height="980" alt="Screenshot 2025-11-06 151651" src="https://github.com/user-attachments/assets/209b69b3-16f3-4910-ad94-51cb4d5c2181" />
+![sea](https://github.com/user-attachments/assets/6e49f36c-a8a2-45a4-8185-97eecd66cf03)
 
 
 4.COMMUNITION DIAGRAM
